@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	Initializing creates a repository. os you can save all your versions of a 
+	Initializing creates a repository. So you can save all your versions of a 
 	project.
 
 How is the staging area different from the working directory and the repository?
@@ -38,5 +38,5 @@ the diagram the way we do?
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-	Pro of Auto-merging: fast, effective. Con: Doesn't always work.
-	Pro of Always manual merges: know it will work correctly. Con: super time consuming.
+	Pro of auto-merging: fast, effective. Con: Doesn't always work.
+	Pro of always manual merges: know it will work correctly. Con: super time consuming.
