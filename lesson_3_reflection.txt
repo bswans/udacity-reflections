@@ -29,7 +29,11 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    
+    You could use Google Docs. It would be harder because everyone can make changes
+    on top of each other and it would be nearly impossible to streamline, but it's
+    possible. Git and GitHub seems way easier because people collaborating can see
+    and approve changes before they take effect on the master copy which is super
+    convenient. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
