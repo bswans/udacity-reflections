@@ -38,4 +38,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    
+    I'd want to make changes in a separate branch if I was collaborating on a project
+    so I didn't change or break something someone else was using by changing master.
+    If I'm working independently on a project I'd probably only use branches when I
+    was testing out something new, but already had a working version of the project
+    so I didn't ruin it by trying something new.
+
